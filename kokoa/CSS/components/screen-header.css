@@ -1,8 +1,10 @@
 .screen-header{
     display: flex;
     justify-content: space-between;
-    padding: 40px;
     align-items: center;
+    padding: var(--horizontal-space);
+    margin-bottom: 10px;
+    padding-top: -10px;
 }
 
 .screen-header__title{
