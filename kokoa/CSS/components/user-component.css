@@ -38,7 +38,6 @@
 
 .user-component{
     justify-content: space-between;
-    margin-bottom: 1px solid rgba(0,0,0,0.5) ;
 }
 
 .user-component__column:last-child{
