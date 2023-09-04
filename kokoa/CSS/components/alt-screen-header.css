@@ -4,7 +4,6 @@
     margin-bottom: 15px;
     align-items: center;
     justify-content: space-between;
-
 }
 
 .alt-header__title  {
@@ -12,14 +11,14 @@
     font-weight: 600;
 }
 .alt-header__column:first-child {
-    margin-right: auto;
+    margin-left: 10px;
 
 }
 .alt-header__column:nth-child(2){
     text-align: center;
 }
 .alt-header__column:last-child{
-    margin-left : auto;
+    margin-right : 10px;
     display:flex;
     justify-content: flex-end;
 }
